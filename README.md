@@ -3,9 +3,9 @@
 ### [View Live Demo](https://music-app-ui-weld.vercel.app/)
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://music-app-ui-weld.vercel.app/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 Welcome to the **Music App UI** project! This repository showcases a high-fidelity, modern user interface for a music streaming platform. It is built with a focus on **HCI (Human-Computer Interaction)** principles, ensuring a seamless experience for the end-user.
 
@@ -16,17 +16,17 @@ Check out the live version of the application here: **[music-app-ui-weld.vercel.
 As a student of **Artificial Intelligence and Machine Learning**, I view this UI as more than just a frontend project. It serves as the visual interface layer for future **AI-driven audio systems**, such as personalized recommendation engines and real-time audio signal processing tools.
 
 ## 🛠️ Built With
-This interface was developed using a modern web stack to ensure performance and responsiveness:
-* **React.js:** For building a component-based, scalable architecture.
-* **Tailwind CSS:** Utilized for rapid UI development and implementing a "Glassmorphism" aesthetic.
-* **Vercel:** Optimized for fast global deployment and CI/CD integration.
-* **Lucide React:** A clean and consistent iconography set.
+This interface was developed using a clean and responsive front-end stack:
+* **HTML5:** Semantic structure for better accessibility and SEO.
+* **CSS3:** Custom styling for unique UI elements and glassmorphic effects.
+* **Bootstrap 5:** Utilized for a mobile-first responsive grid system and pre-built UI components.
+* **Vercel:** Cloud hosting for fast performance and global availability.
 
 ## 📂 Key Features
 * **Immersive Dashboard:** A sleek, dark-themed interface designed for maximum content visibility.
 * **Responsive Media Player:** A fully functional UI for track controls, progress tracking, and volume management.
 * **Intuitive Navigation:** Side-bar integration for quick access to Home, Discover, and Personal Collections.
-* **Dynamic Layout:** Fully optimized for different screen sizes, from mobile devices to desktop monitors.
+* **Mobile-First Design:** Fully optimized for all screen sizes using Bootstrap’s responsive utilities.
 
 ## 🧠 Future AI Roadmap
 To align with my goals as an **AI/ML Researcher**, I plan to integrate:
@@ -35,7 +35,11 @@ To align with my goals as an **AI/ML Researcher**, I plan to integrate:
 * **Voice Commands:** Implementing Natural Language Processing (NLP) for hands-free music control.
 
 ## 🚀 Installation and Local Development
-To explore the code and run it locally:
+Since this project uses static web technologies, no complex installation is required.
+
+1. **Clone the Repo**
+   ```bash
+   git clone [https://github.com/Sree-26/music-app-ui.git](https://github.com/Sree-26/music-app-ui.git)
 
 1. **Clone the Repo**
    ```bash
